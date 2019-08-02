@@ -1,49 +1,41 @@
-# JavaScript
+# ES6
 
-## [Variables](https://codesandbox.io/s/lucid-bartik-bn0bu)
-|Category| SubCategory|
-|------|------|
-|Number|
-|String|
-|null|
-|undefined|
-|Boolean|
-|Object|JSON Object|
-|Object|Array|
-|Object|Date|
-|Object|RegExp|
-|Object|Function|
+## [Let, Const](https://codesandbox.io/s/confident-haze-ytmgr)
+### Exercises for classes
+* Try to change the const array variable value, e.g. variable[0] = 'value'
+* Try to change the const object variable property
 
-### Exercises for variables
-* Try to add two number variables.
-* Try to add number + string type variables. 
-* Remove first element from array. 
-* Remove last element from array. 
-* Remove object property
+## [Class](https://codesandbox.io/s/festive-brattain-842kc)
+### Exercises for classes
+* Use static with the method
+* Try to call another class method from one class
+* Extend the class
 
-## [JSON Objects](https://codesandbox.io/s/serene-neumann-elpt4)
-### Exercises for JSON
-* Set the variable as value in object
-* Set the variable as key in object
-* Set keyword[like 'function', 'var', 'for'] as property in object
+## [Spread operator](https://codesandbox.io/s/serene-neumann-elpt4)
+### Exercises with spread operator
+* Use the spread operator with array
+* Use the spread operator with function
 
-## [Array](https://codesandbox.io/s/serene-neumann-elpt4)
-### Exercises for Array
-* Add element after the array 
-* Add element before the array
-* Remove element after the array
-* Add element before the array
-* Concat the array
-* Remove the items from the array
-* Get the desired length of array from array
+## [Array Methods](https://codesandbox.io/s/serene-neumann-elpt4)
+### Exercises for Array methods
+* forEach 
+* filter
+* find
 
-## [Functions](https://codesandbox.io/s/hopeful-moore-blupc)
-### Exercises for functions
-* try using special variable args with function.
-* create function within function 
-* Create function class with prototype
+## [Arrow functions](https://codesandbox.io/s/vigilant-goodall-emyg4)
+### Exercises for arrow functions
+* Try using arrow function without curly bracket
+* Try using arrow function without round bracket 
+* Try using arrow functions inside the Array map method 
 
-## [Loops](https://codesandbox.io/s/vigilant-dust-x3wyj)
-### Exercises for Loops
-* try using for... of loop for arrays
-* try using for... in loop for objects
+## [Template Literals](https://codesandbox.io/s/festive-water-4bbmn)
+### Exercises for template literals
+* Try using ternary operator with template literals 
+
+## [Import / Export](https://codesandbox.io/s/zealous-sunset-0s12n)
+### Exercises for arrow Import Export
+* Export string variable
+* Export object 
+* Export array
+* Export number
+* Export more than one item and import them
