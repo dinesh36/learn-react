@@ -17,15 +17,13 @@
 ### Exercises for variables
 * Try to add two number variables.
 * Try to add number + string type variables. 
-* Remove first element from array. 
-* Remove last element from array. 
-* Remove object property
 
 ## [JSON Objects](https://codesandbox.io/s/serene-neumann-elpt4)
 ### Exercises for JSON
 * Set the variable as value in object
 * Set the variable as key in object
 * Set keyword[like 'function', 'var', 'for'] as property in object
+* Remove object property
 
 ## [Array](https://codesandbox.io/s/serene-neumann-elpt4)
 ### Exercises for Array
