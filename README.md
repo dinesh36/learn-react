@@ -11,7 +11,7 @@
 * Try to call another class method from one class
 * Extend the class
 
-## [Spread operator](https://codesandbox.io/s/serene-neumann-elpt4)
+## [Spread operator](https://codesandbox.io/s/nervous-brattain-yudhe)
 ### Exercises with spread operator
 * Use the spread operator with array
 * Use the spread operator with function
