@@ -25,7 +25,7 @@
 * Set keyword[like 'function', 'var', 'for'] as property in object
 * Remove object property
 
-## [Array](https://codesandbox.io/s/serene-neumann-elpt4)
+## [Array](https://codesandbox.io/s/gallant-ishizaka-9ov7r)
 ### Exercises for Array
 * Add element after the array 
 * Add element before the array
