@@ -1,27 +1,24 @@
-# React
+# Data Passing with React
 
-## [Hello World](https://codesandbox.io/s/young-cherry-9k9e3)
-### Exercises for react hello world
-* Try to change the root element
-* Create two root element and render application for them
-* Set the App function in different file and import to index file
+## [Multiple components](https://codesandbox.io/s/serene-perlman-lbd9p)
+### Exercises for multiple components
+* Create component with two children
+* Create three level hierarchy
+* Create four level hierarchy
+* Create component with three level hierarchy + 2 children component at any level
 
-## [JSX](https://codesandbox.io/s/funny-architecture-buoec)
-### Exercises for JSX
-* Set the element hidden based on condition
-* Render the element based on the condition
+## [Pass data to child](https://codesandbox.io/s/modest-wilson-gbgd6)
+### Exercises for pass data to child
+* Set the background color of child according to data passed from parent
+* Hide/Show the child if parent passes true/false to child component
 
-## [Element](https://codesandbox.io/s/optimistic-bassi-9r1vi)
-### Exercises for Element
-* Create element to show the date
-* Loop through the array 
-* Loop through the object
+## [Pass data to parent](https://codesandbox.io/s/eloquent-snyder-9jm83)
+### Pass data to parent
+* Set the background color of parent according to data passed from child
+* Set the two buttons on the child and on press of those buttons change the title in parent
 
-## [Component](https://codesandbox.io/s/adoring-smoke-wmwo9)
-### Component
-* Set the component to show the date from function
-* Set the component to show the date from class
-* Create the component to loop through the array
-* Create the component to loop through the object
-
-
+## [Pass data to siblings](https://codesandbox.io/s/red-glade-tb17y)
+### Pass data to siblings
+* Set the background color of the sibling on button click of other sibling
+* Show/hide the sibling based on the button press event from the other sibling
+* Set the clone siblings with counter and increment button, If I increment the counter from one sibling it will increment in other and vice versa.
