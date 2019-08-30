@@ -7,7 +7,7 @@
 * Set the form with one select box to select the user type (admin, student, faculty, trainer)
 * Set the form with radio button to set the active status (active/inactive)
 * Set the checkbox to multiselect the skills (communication, team management, analytical skill, interpersonal skill)
-* Set the form to enter the user data with the following fields [Reference](https://codesandbox.io/s/musing-river-zvd2i) 
+* Set the form to enter the user data with the following fields [(Reference)](https://codesandbox.io/s/musing-river-zvd2i) 
     * FirstName
     * LastName
     * State (select box with list of states, Gujarat, Panjab, Rajasthan etc.)
