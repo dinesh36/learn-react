@@ -1,8 +1,9 @@
-# Routing in react
+# Manage APIs with React
 
-## [Routing](https://codesandbox.io/s/intelligent-star-v8lz6)
+## [APIs](https://codesandbox.io/s/green-architecture-d9wgo)
 ### Exercise for routing
-* Check the static user credentials from login page and goto dashboard
-* Set the logout button in dashboard
-* Set the route /products , which will set the route for product list
-* Set the inner route for /products/add which will responsible for adding the product 
+* Implement the API call to get all the post data
+* Implement the DELETE API call to delete the post data
+* Implement the POST API call to create the post
+* Implement the GET API call to get the post data and set the edit form
+* Implement the PUT API call to update the post data 
