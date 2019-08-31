@@ -38,7 +38,7 @@
 ## [Functions](https://codesandbox.io/s/hopeful-moore-blupc)
 ### Exercises for functions
 * try using special variable args with function.
-* create function within function 
+* Create the function named studentMarkTotal, This function will have the varialbe called marks, and also have the function total, this function will total the marks of the students.
 * Create function class with prototype
 
 ## [Loops](https://codesandbox.io/s/vigilant-dust-x3wyj)
