@@ -1,7 +1,7 @@
 # ES6
 
 ## [Let, Const](https://codesandbox.io/s/confident-haze-ytmgr)
-### Exercises for classes
+### Exercises for let and const
 * Try to change the const array variable value, e.g. variable[0] = 'value'
 * Try to change the const object variable property
 
