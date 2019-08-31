@@ -16,7 +16,7 @@
 * Use the spread operator with array
 * Use the spread operator with function
 
-## [Array Methods](https://codesandbox.io/s/serene-neumann-elpt4)
+## [Array Methods](https://codesandbox.io/s/ecstatic-bhaskara-gwbpm)
 ### Exercises for Array methods
 * forEach 
 * filter
