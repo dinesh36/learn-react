@@ -14,7 +14,6 @@ Alternative for running the scripts https://jsfiddle.net/Trae/hxm4smc1/
 ## [Spread operator](https://codesandbox.io/s/nervous-brattain-yudhe)
 ### Exercises with spread operator
 * Use the spread operator with array
-* Use the spread operator with function
 
 ## [Array Methods](https://codesandbox.io/s/ecstatic-bhaskara-gwbpm)
 ### Exercises for Array methods
