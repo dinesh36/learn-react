@@ -27,12 +27,12 @@
 
 ## [Array](https://codesandbox.io/s/gallant-ishizaka-9ov7r)
 ### Exercises for Array
-* Add element after the array 
-* Add element before the array
-* Remove element after the array
-* Add element before the array
+* Add element beginning the array 
+* Add element end the array
+* Remove element from start of the array
+* Add element from end the array
 * Concat the array
-* Remove the items from the array
+* Remove the multiple items from the array
 * Get the desired length of array from array [sub array]
 
 ## [Functions](https://codesandbox.io/s/hopeful-moore-blupc)
