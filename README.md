@@ -1,5 +1,5 @@
 # ES6
-
+Alternative for running the scripts https://jsfiddle.net/Trae/hxm4smc1/
 ## [Let, Const](https://codesandbox.io/s/confident-haze-ytmgr)
 ### Exercises for let and const
 * Try to change the const array variable value, e.g. variable[0] = 'value'
