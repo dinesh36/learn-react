@@ -18,7 +18,7 @@
 * Try to add two number variables.
 * Try to add number + string type variables. 
 
-## [JSON Objects](https://codesandbox.io/s/serene-neumann-elpt4)
+## [JSON Objects](https://codesandbox.io/s/gallant-ishizaka-9ov7r)
 ### Exercises for JSON
 * Set the variable as value in object
 * Set the variable as key in object
