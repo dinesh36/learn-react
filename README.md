@@ -30,7 +30,7 @@
 * Add element beginning the array 
 * Add element end the array
 * Remove element from start of the array
-* Add element from end the array
+* Remove element from end the array
 * Concat the array
 * Remove the multiple items from the array
 * Get the desired length of array from array [sub array]
