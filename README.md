@@ -1,18 +1,20 @@
 # JavaScript
 
 ## [Variables](https://codesandbox.io/s/lucid-bartik-bn0bu)
-|Category| SubCategory|
-|------|------|
+[Variable Basics] (https://www.w3schools.com/js/js_variables.asp)
+### Variable Types
+|Category|
+|------|
 |Number|
 |String|
 |null|
 |undefined|
 |Boolean|
-|Object|JSON Object|
-|Object|Array|
-|Object|Date|
-|Object|RegExp|
-|Object|Function|
+|JSON Object|
+|Array|
+|Date|
+|RegExp|
+|Function|
 
 ### Exercises for variables
 * Try to add two number variables.
@@ -22,23 +24,22 @@
 ### Exercises for JSON
 * Set the variable as value in object
 * Set the variable as key in object
-* Set keyword[like 'function', 'var', 'for'] as property in object
 * Remove object property
 
 ## [Array](https://codesandbox.io/s/serene-neumann-elpt4)
 ### Exercises for Array
-* Add element beginning the array 
+* Add element beginning the array
 * Add element end the array
 * Remove element from start of the array
 * Remove element from end the array
-* Concat the array
+* Concat two arrays to one array
 * Remove the multiple items from the array
 * Get the desired length of array from array [sub array]
 
 ## [Functions](https://codesandbox.io/s/hopeful-moore-blupc)
 ### Exercises for functions
-* Create the function named studentMarkTotal, This function will have the varialbe called marks, and also have the function total, this function will total the marks of the students.
-* try using special variable args with function.
+* Create the function named totalMarks, This function will have the arguments `scienceMarks`, `mathsMarks`, `englishMarks` and will return the total of those marks in return.
+* try using special variable `args` within the function.
 
 ## [Loops](https://codesandbox.io/s/vigilant-dust-x3wyj)
 ### Exercises for Loops
