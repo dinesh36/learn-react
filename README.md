@@ -2,8 +2,7 @@
 
 ## [Variables](https://codesandbox.io/s/lucid-bartik-bn0bu)
 [Variable Basics] (https://www.w3schools.com/js/js_variables.asp)
-### Variable Types
-|Category|
+|Variable Data Types|
 |------|
 |Number|
 |String|
