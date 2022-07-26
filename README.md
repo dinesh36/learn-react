@@ -1,7 +1,7 @@
 # JavaScript
 
 ## [Variables](https://codesandbox.io/s/lucid-bartik-bn0bu)
-[Variable Basics] (https://www.w3schools.com/js/js_variables.asp)
+[Variable Basics](https://www.w3schools.com/js/js_variables.asp)
 |Variable Data Types|
 |------|
 |Number|
