@@ -38,7 +38,7 @@
 ## [Functions](https://codesandbox.io/s/hopeful-moore-blupc)
 ### Exercises for functions
 * Create the function named `totalMarks`, This function will have the arguments `scienceMarks`, `mathsMarks`, `englishMarks` and will return the total of those `marks` in return.
-* try using special variable `args` within the function.
+* try using special variable `arguments` within the function.
 
 ## [Loops](https://codesandbox.io/s/vigilant-dust-x3wyj)
 ### Exercises for Loops
