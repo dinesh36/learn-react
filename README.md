@@ -1,6 +1,6 @@
 # Routing in react
 
-## [Routing](https://codesandbox.io/s/intelligent-star-v8lz6)
+## [Routing](https://v5.reactrouter.com/web/example/nesting)
 ### Exercise for routing
 * Check the static user credentials from login page and goto dashboard
 * Set the logout button in dashboard
